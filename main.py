@@ -1,1 +1,10 @@
-
+q1 = input ('Tell me about yourself:')
+print('I see...',q1,'..')
+q2 = input('Why did you pick this job?: ')
+print('Understood...',q2,'...')
+q3 = input('What makes you different from other potentional canidates?: ')
+print('Great to know...',q3,'...')
+q4=input('Why should we pick you?: ')
+print('Are you sure about that...?',q4,'..?')
+q5=input('Do you have any prior teaching experience?: ')
+print(q5,'...? thank you for your time...')
